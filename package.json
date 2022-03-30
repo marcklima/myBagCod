@@ -1,7 +1,7 @@
 {
   "name": "mybagcod",
   "version": "1.0.0",
-  "description": "tecnologias usadas:  node, typescript, javasacript, next, bootstrap, react  vercel",
+  "description": "tecnologias usadas:  node, typescript, javasacript, next, bootstrap, react  vercel",/* link: https://vercel.com/ */
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
