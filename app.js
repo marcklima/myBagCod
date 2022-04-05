@@ -1,21 +1,3 @@
-function soma (a,b){
-    return a+b;
-}
+const soma = require("./calc"); //CHAMANDO O module.exports = soma em calc.js
 
-function sub(a,b){
-    return a-b;
-
-}
-
-function mult(a,b){
-return  a*b;
-}
-
-function div(a,b){
-return a/b ;
-}
-
-console.log("A soma é: "+ soma(10, 30));
-console.log("o resultado mix é: " + div(mult(sub(200,30),40), soma(50,70)
-)//função div
-)//sonole.log;
+console.log(" A SOMA É : " + soma(12,12));// imprimindo a função soma em cal.js
